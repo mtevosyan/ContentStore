@@ -1,20 +1,39 @@
-﻿[
+[
 {
-"name" : "test Content name",
-"description" : "Test Content Description",
-"provider" : "VMware Inc",
-"version" : "1.0",
-"fileName" : "testContent",
-"downloadUrl" : "http://build-squid.eng.vmware.com/build/mts/release/bora-1042326/publish/vcops-PortAdapter-3-1042326.pak",
-"icon" : ""
+"downloadUrl":"http://build-squid.eng.vmware.com/build/mts/release/bora-1042326/publish/vcops-PortAdapter-3-1042326.pak",
+"contentOwnerType":"vROps",
+"contentType":"CONTENT_MANAGEMENT_PACK",
+"version":"1.0",
+"name":"vCenter Operations Manager Port Adapter",
+"description":"The port adapter uses sockets to monitor the availability state and response time of ports on hosts. You define the hosts, and the ports to monitor on those hosts.",
+"provider":"VMware Inc",
+"isInstalled":false,
+"hasUpdates":false,
+"icon":null,
+"filename":"vcops-PortAdapter-3-1042326.pak"
 },
-{
-"name" : "test Content name2",
-"description" : "Test Content Description2",
-"provider" : "VMware Inc",
-"version" : "2.0",
-"fileName" : "testContent2",
-"downloadUrl" : "http://build-squid.eng.vmware.com/build/mts/release/bora-1042326/publish/vcops-PortAdapter-3-1042326.pak",
-"icon" : ""
+{"downloadUrl":"http://build-squid.eng.vmware.com/build/mts/release/bora-772011/publish/vcops-ITMAdapter-3-772011.pak",
+"contentOwnerType":"vROps",
+"contentType":"CONTENT_MANAGEMENT_PACK",
+"version":"2.18.772011",
+"name":"HP StoreFront Analytics for VMware vRealize Operations Manager",
+"description":"HP StoreFront Analytics for vRealize Operations Manager provides customers using HP 3PAR StoreServ or HP StoreVirtual storage with operational dashboards to gain deep insights and visibility into the health, risk and efficiency of the storage infrastructure’s performance and capacity capabilities.",
+"provider":"HP",
+"isInstalled":false,
+"hasUpdates":false,
+"icon":null,
+"filename":"vcops-ITMAdapter-3-772011.pak"
+},
+{"downloadUrl":"http://build-squid.eng.vmware.com/build/mts/release/bora-2545592/publish/vmware-MPforSCOM-4.0-2545592.pak",
+"contentOwnerType":"vROps",
+"contentType":"CONTENT_MANAGEMENT_PACK",
+"version":"4.0.2545596",
+"name":"MP for MSSCOM",
+"description":"The vRealize Operations Management Pack for SCOM can be used on any Enterprise edition of vRealize Operations. The management pack connects directly to Microsoft SCOM to collect data. ​",
+"provider":"VMware Inc",
+"isInstalled":false,
+"hasUpdates":false,
+"icon":null,
+"filename":"vmware-MPforSCOM-4.0-2545592.pak"
 }
 ]
