@@ -5,7 +5,8 @@
 "provider" : "VMware Inc",
 "version" : "1.0",
 "fileName" : "testContent",
-"downloadUrl" : "http://build-squid.eng.vmware.com/build/mts/release/bora-1042326/publish/vcops-PortAdapter-3-1042326.pak"
+"downloadUrl" : "http://build-squid.eng.vmware.com/build/mts/release/bora-1042326/publish/vcops-PortAdapter-3-1042326.pak",
+"icon" : ""
 },
 {
 "name" : "test Content name2",
@@ -13,6 +14,7 @@
 "provider" : "VMware Inc",
 "version" : "2.0",
 "fileName" : "testContent2",
-"downloadUrl" : "http://build-squid.eng.vmware.com/build/mts/release/bora-1042326/publish/vcops-PortAdapter-3-1042326.pak"
+"downloadUrl" : "http://build-squid.eng.vmware.com/build/mts/release/bora-1042326/publish/vcops-PortAdapter-3-1042326.pak",
+"icon" : ""
 }
 ]
