@@ -1,7 +1,7 @@
 [
 {
 "downloadUrl":"http://build-squid.eng.vmware.com/build/mts/release/bora-1042326/publish/vcops-PortAdapter-3-1042326.pak",
-"version":"1.0",
+"version":"1.0.1042326",
 "name":"vCenter Operations Manager Port Adapter",
 "description":"The port adapter uses sockets to monitor the availability state and response time of ports on hosts. You define the hosts, and the ports to monitor on those hosts.",
 "provider":"VMware Inc",
@@ -10,7 +10,7 @@
 },
 {
 "downloadUrl":"http://build-squid.eng.vmware.com/build/mts/release/bora-2502846/publish/vmware-MPforAWS-2.0-2502846.pak",
-"version":"2.0",
+"version":"2.0.2502846",
 "name":"vCenter Operations Manager AWS Adapter",
 "description":"AWS Adapter...",
 "provider":"VMware Inc",
@@ -18,7 +18,7 @@
 "filename":"vmware-MPforAWS-2.0-2502846.pak"
 },
 {"downloadUrl":"http://build-squid.eng.vmware.com/build/mts/release/bora-2545592/publish/vmware-MPforSCOM-4.0-2545592.pak",
-"version":"4.0",
+"version":"4.0.2545592",
 "name":"MP for MSSCOM",
 "description":"The vRealize Operations Management Pack for SCOM can be used on any Enterprise edition of vRealize Operations. The management pack connects directly to Microsoft SCOM to collect data. ​",
 "provider":"VMware Inc",
