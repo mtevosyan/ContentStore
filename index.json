@@ -10,7 +10,7 @@
 },
 {
 "downloadUrl":"http://build-squid.eng.vmware.com/build/mts/release/bora-2502846/publish/vmware-MPforAWS-2.0-2502846.pak",
-"version":"2.0.2502846",
+"version":"2.0.2502847",
 "name":"MP for AWS",
 "description":"AWS Adapter...",
 "provider":"VMware Inc",
