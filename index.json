@@ -20,7 +20,7 @@
 "filename":"vmware-MPforAWS-2.0-2502846.pak"
 },
 {"downloadUrl":"http://build-squid.eng.vmware.com/build/mts/release/bora-2876220/publish/vmware-MPforSCOM-4.0-2876220.pak",
-"version":"4.0.2876220",
+"version":"4.1.2876220",
 "name":"MP for MSSCOM",
 "description":"The vRealize Operations Management Pack for SCOM can be used on any Enterprise edition of vRealize Operations. The management pack connects directly to Microsoft SCOM to collect data. ​",
 "provider":"VMware Inc",
