@@ -49,7 +49,7 @@
 "filename":"ManagementPack5.pak"
 },
 {"downloadUrl":"https://github.com/mtevosyan/contentStore/raw/master/content/ManagementPack6.pak",
-"version":"1.0.0",
+"version":"2.0.0",
 "name":"6 Management Pack",
 "displayName":"Management Pack 6",
 "description":"Test management pack 6 was generated for testing purposes of Marketplace integration.",
