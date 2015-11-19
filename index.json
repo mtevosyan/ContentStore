@@ -11,7 +11,7 @@
 "website":"mp1.com/support",
 "releaseNotes":"Placeholder release notes for Test management pack 1 which was generated for testing purposes of Marketplace integration.",
 "overview":"Placeholder overview for Test management pack 1 which was generated for testing purposes of Marketplace integration.",
-"screenshotUrls":["https://github.com/mtevosyan/ContentStore/blob/master/TestScreenshots/screenshot1.jpg", "https://github.com/mtevosyan/ContentStore/blob/master/TestScreenshots/screenshot2.jpg", "https://github.com/mtevosyan/ContentStore/blob/master/TestScreenshots/screenshot3.jpg"]
+"screenshotUrls":["https://raw.githubusercontent.com/mtevosyan/ContentStore/master/TestScreenshots/screenshot1.jpg", "https://raw.githubusercontent.com/mtevosyan/ContentStore/master/TestScreenshots/screenshot2.jpg", "https://raw.githubusercontent.com/mtevosyan/ContentStore/master/TestScreenshots/screenshot3.jpg"]
 },
 {"downloadUrl":"https://github.com/mtevosyan/contentStore/raw/master/content/ManagementPack2.pak",
 "version":"1.0.0",
@@ -24,7 +24,7 @@
 "website":"mp2.com/support",
 "releaseNotes":"Placeholder release notes for Test management pack 2 which was generated for testing purposes of Marketplace integration.",
 "overview":"Placeholder overview for Test management pack 2 which was generated for testing purposes of Marketplace integration.",
-"screenshotUrls":["https://github.com/mtevosyan/ContentStore/blob/master/TestScreenshots/screenshot4.jpg", "https://github.com/mtevosyan/ContentStore/blob/master/TestScreenshots/screenshot5.jpg", "https://github.com/mtevosyan/ContentStore/blob/master/TestScreenshots/screenshot6.jpg", "https://github.com/mtevosyan/ContentStore/blob/master/TestScreenshots/screenshot7.jpg"]
+"screenshotUrls":["https://raw.githubusercontent.com/mtevosyan/ContentStore/master/TestScreenshots/screenshot4.jpg", "https://raw.githubusercontent.com/mtevosyan/ContentStore/master/TestScreenshots/screenshot5.jpg", "https://raw.githubusercontent.com/mtevosyan/ContentStore/master/TestScreenshots/screenshot6.jpg", "https://raw.githubusercontent.com/mtevosyan/ContentStore/master/TestScreenshots/screenshot7.jpg"]
 },
 {"downloadUrl":"https://github.com/mtevosyan/contentStore/raw/master/content/ManagementPack3.pak",
 "version":"1.0.0",
@@ -37,7 +37,7 @@
 "website":"mp3.com/support",
 "releaseNotes":"Placeholder release notes for Test management pack 3 which was generated for testing purposes of Marketplace integration.",
 "overview":"Placeholder overview for Test management pack 3 which was generated for testing purposes of Marketplace integration.",
-"screenshotUrls":["https://github.com/mtevosyan/ContentStore/blob/master/TestScreenshots/screenshot8.jpg", "https://github.com/mtevosyan/ContentStore/blob/master/TestScreenshots/screenshot9.jpg", "https://github.com/mtevosyan/ContentStore/blob/master/TestScreenshots/screenshot10.jpg", "https://github.com/mtevosyan/ContentStore/blob/master/TestScreenshots/screenshot11.jpg"]
+"screenshotUrls":["https://raw.githubusercontent.com/mtevosyan/ContentStore/master/TestScreenshots/screenshot8.jpg", "https://raw.githubusercontent.com/mtevosyan/ContentStore/master/TestScreenshots/screenshot9.jpg", "https://raw.githubusercontent.com/mtevosyan/ContentStore/master/TestScreenshots/screenshot10.jpg", "https://raw.githubusercontent.com/mtevosyan/ContentStore/master/TestScreenshots/screenshot11.jpg"]
 },
 {"downloadUrl":"https://github.com/mtevosyan/contentStore/raw/master/content/ManagementPack4.pak",
 "version":"1.0.0",
@@ -49,7 +49,7 @@
 "website":"mp4.com/support",
 "releaseNotes":"Placeholder release notes for Test management pack 4 which was generated for testing purposes of Marketplace integration.",
 "overview":"Placeholder overview for Test management pack 4 which was generated for testing purposes of Marketplace integration.",
-"screenshotUrls":["https://github.com/mtevosyan/ContentStore/blob/master/TestScreenshots/screenshot12.jpg", "https://github.com/mtevosyan/ContentStore/blob/master/TestScreenshots/screenshot13.jpg", "https://github.com/mtevosyan/ContentStore/blob/master/TestScreenshots/screenshot1.jpg", "https://github.com/mtevosyan/ContentStore/blob/master/TestScreenshots/screenshot2.jpg", "https://github.com/mtevosyan/ContentStore/blob/master/TestScreenshots/screenshot3.jpg", "https://github.com/mtevosyan/ContentStore/blob/master/TestScreenshots/screenshot4.jpg"]
+"screenshotUrls":["https://raw.githubusercontent.com/mtevosyan/ContentStore/master/TestScreenshots/screenshot12.jpg", "https://raw.githubusercontent.com/mtevosyan/ContentStore/master/TestScreenshots/screenshot13.jpg", "https://raw.githubusercontent.com/mtevosyan/ContentStore/master/TestScreenshots/screenshot1.jpg", "https://raw.githubusercontent.com/mtevosyan/ContentStore/master/TestScreenshots/screenshot2.jpg", "https://raw.githubusercontent.com/mtevosyan/ContentStore/master/TestScreenshots/screenshot3.jpg", "https://raw.githubusercontent.com/mtevosyan/ContentStore/master/TestScreenshots/screenshot4.jpg"]
 },
 {"downloadUrl":"https://github.com/mtevosyan/contentStore/raw/master/content/ManagementPack5.pak",
 "version":"1.0.0",
@@ -62,7 +62,7 @@
 "website":"mp5.com/support",
 "releaseNotes":"Placeholder release notes for Test management pack 5 which was generated for testing purposes of Marketplace integration.",
 "overview":"Placeholder overview for Test management pack 5 which was generated for testing purposes of Marketplace integration.",
-"screenshotUrls":["https://github.com/mtevosyan/ContentStore/blob/master/TestScreenshots/screenshot5.jpg", "https://github.com/mtevosyan/ContentStore/blob/master/TestScreenshots/screenshot6.jpg", "https://github.com/mtevosyan/ContentStore/blob/master/TestScreenshots/screenshot7.jpg", "https://github.com/mtevosyan/ContentStore/blob/master/TestScreenshots/screenshot8.jpg", "https://github.com/mtevosyan/ContentStore/blob/master/TestScreenshots/screenshot9.jpg", "https://github.com/mtevosyan/ContentStore/blob/master/TestScreenshots/screenshot10.jpg"]
+"screenshotUrls":["https://raw.githubusercontent.com/mtevosyan/ContentStore/master/TestScreenshots/screenshot5.jpg", "https://raw.githubusercontent.com/mtevosyan/ContentStore/master/TestScreenshots/screenshot6.jpg", "https://raw.githubusercontent.com/mtevosyan/ContentStore/master/TestScreenshots/screenshot7.jpg", "https://raw.githubusercontent.com/mtevosyan/ContentStore/master/TestScreenshots/screenshot8.jpg", "https://raw.githubusercontent.com/mtevosyan/ContentStore/master/TestScreenshots/screenshot9.jpg", "https://raw.githubusercontent.com/mtevosyan/ContentStore/master/TestScreenshots/screenshot10.jpg"]
 },
 {"downloadUrl":"https://github.com/mtevosyan/contentStore/raw/master/content/ManagementPack6.pak",
 "version":"2.0.0",
@@ -76,7 +76,7 @@
 "releaseNotes":"Placeholder release notes for Test management pack 6 which was generated for testing purposes of Marketplace integration.",
 "updateNotes":"Placeholder update notes for Test management pack 6 which was generated for testing purposes of Marketplace integration.",
 "overview":"Placeholder overview for Test management pack 6 which was generated for testing purposes of Marketplace integration.",
-"screenshotUrls":["https://github.com/mtevosyan/ContentStore/blob/master/TestScreenshots/screenshot11.jpg", "https://github.com/mtevosyan/ContentStore/blob/master/TestScreenshots/screenshot12.jpg", "https://github.com/mtevosyan/ContentStore/blob/master/TestScreenshots/screenshot13.jpg"]
+"screenshotUrls":["https://raw.githubusercontent.com/mtevosyan/ContentStore/master/TestScreenshots/screenshot11.jpg", "https://raw.githubusercontent.com/mtevosyan/ContentStore/master/TestScreenshots/screenshot12.jpg", "https://raw.githubusercontent.com/mtevosyan/ContentStore/master/TestScreenshots/screenshot13.jpg"]
 },
 {"downloadUrl":"https://github.com/mtevosyan/contentStore/raw/master/content/ManagementPack7.pak",
 "version":"2.0.0",
@@ -89,7 +89,7 @@
 "releaseNotes":"Placeholder release notes for Test management pack 7 which was generated for testing purposes of Marketplace integration.",
 "updateNotes":"Placeholder update notes for Test management pack 7 which was generated for testing purposes of Marketplace integration.",
 "overview":"Placeholder overview for Test management pack 7 which was generated for testing purposes of Marketplace integration.",
-"screenshotUrls":["https://github.com/mtevosyan/ContentStore/blob/master/TestScreenshots/screenshot1.jpg", "https://github.com/mtevosyan/ContentStore/blob/master/TestScreenshots/screenshot2.jpg", "https://github.com/mtevosyan/ContentStore/blob/master/TestScreenshots/screenshot3.jpg", "https://github.com/mtevosyan/ContentStore/blob/master/TestScreenshots/screenshot4.jpg", "https://github.com/mtevosyan/ContentStore/blob/master/TestScreenshots/screenshot5.jpg", "https://github.com/mtevosyan/ContentStore/blob/master/TestScreenshots/screenshot6.jpg", "https://github.com/mtevosyan/ContentStore/blob/master/TestScreenshots/screenshot7.jpg"]
+"screenshotUrls":["https://raw.githubusercontent.com/mtevosyan/ContentStore/master/TestScreenshots/screenshot1.jpg", "https://raw.githubusercontent.com/mtevosyan/ContentStore/master/TestScreenshots/screenshot2.jpg", "https://raw.githubusercontent.com/mtevosyan/ContentStore/master/TestScreenshots/screenshot3.jpg", "https://raw.githubusercontent.com/mtevosyan/ContentStore/master/TestScreenshots/screenshot4.jpg", "https://raw.githubusercontent.com/mtevosyan/ContentStore/master/TestScreenshots/screenshot5.jpg", "https://raw.githubusercontent.com/mtevosyan/ContentStore/master/TestScreenshots/screenshot6.jpg", "https://raw.githubusercontent.com/mtevosyan/ContentStore/master/TestScreenshots/screenshot7.jpg"]
 }
 ],
 
