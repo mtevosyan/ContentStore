@@ -139,7 +139,7 @@
     }, 
     {
       "website": "mp10.com/support", 
-      "screenshotUrls": "[https://raw.githubusercontent.com/mtevosyan/mtevosyan/master/TestScreenshots/Angry_Birds_icon_36391.jpg, https://raw.githubusercontent.com/mtevosyan/mtevosyan/master/TestScreenshots/black-bird-icon.png, https://raw.githubusercontent.com/mtevosyan/mtevosyan/master/TestScreenshots/space_bird.jpg]", 
+      "screenshotUrls": ["https://raw.githubusercontent.com/mtevosyan/mtevosyan/master/TestScreenshots/Angry_Birds_icon_36391.jpg", "https://raw.githubusercontent.com/mtevosyan/mtevosyan/master/TestScreenshots/black-bird-icon.png", "https://raw.githubusercontent.com/mtevosyan/mtevosyan/master/TestScreenshots/space_bird.jpg"], 
       "displayName": "ManagementPack10.displayName", 
       "name": "10 Management Pack", 
       "overview": "ManagementPack10.overview", 
