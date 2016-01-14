@@ -139,7 +139,7 @@
     }, 
     {
       "website": "mp1.com/support", 
-      "screenshotUrls": "https://raw.githubusercontent.com/mtevosyan/mtevosyan/master/TestScreenshots/screenshot13.jpg, https://raw.githubusercontent.com/mtevosyan/mtevosyan/master/TestScreenshots/screenshot12.jpg, https://raw.githubusercontent.com/mtevosyan/mtevosyan/master/TestScreenshots/screenshot21.jpg", 
+      "screenshotUrls": ["https://raw.githubusercontent.com/mtevosyan/mtevosyan/master/TestScreenshots/screenshot13.jpg, https://raw.githubusercontent.com/mtevosyan/mtevosyan/master/TestScreenshots/screenshot12.jpg, https://raw.githubusercontent.com/mtevosyan/mtevosyan/master/TestScreenshots/screenshot21.jpg"], 
       "displayName": "ManagementPack10.displayName", 
       "name": "33 Management Pack", 
       "overview": "ManagementPack10.overview", 
