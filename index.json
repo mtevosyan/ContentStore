@@ -8,7 +8,7 @@
         "https://raw.githubusercontent.com/mtevosyan/ContentStore/master/TestScreenshots/screenshot3.jpg"
       ], 
       "displayName": "mp1.displayName", 
-      "contentId": "1 Management Pack", 
+      "contentId": "ManagementPack1", 
       "overview": "mp1.overview", 
       "releaseNotes": "mp1.releaseNotes", 
       "downloadUrl": "https://github.com/mtevosyan/contentStore/raw/master/content/ManagementPack1.pak", 
@@ -26,7 +26,7 @@
         "https://raw.githubusercontent.com/mtevosyan/ContentStore/master/TestScreenshots/screenshot7.jpg"
       ], 
       "displayName": "mp2.displayName", 
-      "contentId": "2 Management Pack", 
+      "contentId": "ManagementPack2", 
       "isFeatured": true, 
       "overview": "mp2.overview", 
       "releaseNotes": "mp2.releaseNotes", 
@@ -45,7 +45,7 @@
         "https://raw.githubusercontent.com/mtevosyan/ContentStore/master/TestScreenshots/screenshot11.jpg"
       ], 
       "displayName": "mp3.displayName", 
-      "contentId": "3 Management Pack", 
+      "contentId": "ManagementPack3", 
       "isFeatured": true, 
       "overview": "mp3.overview", 
       "releaseNotes": "mp3.releaseNotes", 
@@ -66,7 +66,7 @@
         "https://raw.githubusercontent.com/mtevosyan/ContentStore/master/TestScreenshots/screenshot4.jpg"
       ], 
       "displayName": "mp4.displayName", 
-      "contentId": "4 Management Pack", 
+      "contentId": "ManagementPack4", 
       "overview": "mp4.overview", 
       "releaseNotes": "mp4.releaseNotes", 
       "downloadUrl": "https://github.com/mtevosyan/contentStore/raw/master/content/ManagementPack4.pak", 
@@ -86,7 +86,7 @@
         "https://raw.githubusercontent.com/mtevosyan/ContentStore/master/TestScreenshots/screenshot10.jpg"
       ], 
       "displayName": "mp5.displayName", 
-      "contentId": "5 Management Pack", 
+      "contentId": "ManagementPack5", 
       "isFeatured": true, 
       "overview": "mp5.overview", 
       "releaseNotes": "mp5.releaseNotes", 
@@ -100,7 +100,7 @@
       "website": "mp6.com/support", 
       "updateNotes": "mp6.updateNotes", 
       "displayName": "mp6.displayName", 
-      "contentId": "6 Management Pack", 
+      "contentId": "ManagementPack6", 
       "isFeatured": true, 
       "overview": "mp6.overview", 
       "releaseNotes": "mp6.releaseNotes", 
@@ -119,7 +119,7 @@
       "website": "mp7.com/support", 
       "updateNotes": "mp7.updateNotes", 
       "displayName": "mp7.displayName", 
-      "contentId": "7 Management Pack", 
+      "contentId": "ManagementPack7", 
       "overview": "mp7.overview", 
       "releaseNotes": "mp7.releaseNotes", 
       "screenshotUrls": [
@@ -145,7 +145,7 @@
         "https://raw.githubusercontent.com/mtevosyan/ContentStore/master/TestScreenshots/space_bird.jpg"
       ], 
       "displayName": "ManagementPack10.displayName", 
-      "contentId": "10 Management Pack", 
+      "contentId": "ManagementPack10", 
       "overview": "ManagementPack10.overview", 
       "releaseNotes": "ManagementPack10.releaseNotes", 
       "downloadUrl": "https://github.com/mtevosyan/ContentStore/raw/master/content/ManagementPack10.pak", 
