@@ -95,7 +95,7 @@
       "provider": "workflow5vendor", 
       "overview": "mp5.overview",
        "icon": ""
-    },
+    }
 
   ], 
   "dashboards": [
